@@ -6,5 +6,9 @@ dd
 ss
 pokopoko
 ask
+<<<<<<< HEAD
+hennko
+=======
 
 bdsfdsfdsfdsfnkn
+>>>>>>> 43c28e7c02b52117d3b2e0bb7445d98ff755eacd
