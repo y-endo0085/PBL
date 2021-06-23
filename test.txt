@@ -12,6 +12,10 @@ hennko
 
 bdsfdsfdsfdsfnkn
 >>>>>>> 43c28e7c02b52117d3b2e0bb7445d98ff755eacd
+<<<<<<< HEAD
+dddd
+=======
 
 
 jfdskjlfdskldsfklfdskjl
+>>>>>>> b0043240b564fc359c41208381816ec132bc7d62
