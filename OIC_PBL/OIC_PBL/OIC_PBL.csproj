@@ -52,6 +52,12 @@
     <Compile Include="コロナ対応画面1.Designer.cs">
       <DependentUpon>コロナ対応画面1.cs</DependentUpon>
     </Compile>
+    <Compile Include="コロナ対応画面２.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="コロナ対応画面２.Designer.cs">
+      <DependentUpon>コロナ対応画面２.cs</DependentUpon>
+    </Compile>
     <Compile Include="トップ画面.cs">
       <SubType>Form</SubType>
     </Compile>
