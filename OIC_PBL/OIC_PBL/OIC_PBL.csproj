@@ -70,8 +70,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="コロナ対応画面1.resx">
-      <DependentUpon>コロナ対応画面1.cs</DependentUpon>
+    <EmbeddedResource Include="トップ画面.resx">
+      <DependentUpon>トップ画面.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
