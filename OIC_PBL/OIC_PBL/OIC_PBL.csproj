@@ -46,6 +46,60 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="10-1編集画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10-1編集画面.Designer.cs">
+      <DependentUpon>10-1編集画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="10-2編集確認画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10-2編集確認画面.Designer.cs">
+      <DependentUpon>10-2編集確認画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="5-2参加人数集計表.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5-2参加人数集計表.Designer.cs">
+      <DependentUpon>5-2参加人数集計表.cs</DependentUpon>
+    </Compile>
+    <Compile Include="6-1上長否承認画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6-1上長否承認画面.Designer.cs">
+      <DependentUpon>6-1上長否承認画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="6-2否承認確認画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6-2否承認確認画面.Designer.cs">
+      <DependentUpon>6-2否承認確認画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7閲覧画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7閲覧画面.Designer.cs">
+      <DependentUpon>7閲覧画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="8-1教員評価画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8-1教員評価画面.Designer.cs">
+      <DependentUpon>8-1教員評価画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="8-2評価確認画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8-2評価確認画面.Designer.cs">
+      <DependentUpon>8-2評価確認画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="9詳細閲覧画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="9詳細閲覧画面.Designer.cs">
+      <DependentUpon>9詳細閲覧画面.cs</DependentUpon>
+    </Compile>
     <Compile Include="コロナ対応画面1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,11 +112,11 @@
     <Compile Include="コロナ対応画面２.Designer.cs">
       <DependentUpon>コロナ対応画面２.cs</DependentUpon>
     </Compile>
-    <Compile Include="トップ画面.cs">
+    <Compile Include="１トップ画面.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include=".Designer.cs">
-      <DependentUpon>トップ画面.cs</DependentUpon>
+      <DependentUpon>１トップ画面.cs</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Program.cs" />
@@ -79,8 +133,8 @@
     <EmbeddedResource Include="コロナ対応画面1.resx">
       <DependentUpon>コロナ対応画面1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="トップ画面.resx">
-      <DependentUpon>トップ画面.cs</DependentUpon>
+    <EmbeddedResource Include="１トップ画面.resx">
+      <DependentUpon>１トップ画面.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
