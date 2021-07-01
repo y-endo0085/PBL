@@ -58,6 +58,66 @@
     <Compile Include="10-2編集確認画面.Designer.cs">
       <DependentUpon>10-2編集確認画面.cs</DependentUpon>
     </Compile>
+    <Compile Include="2-1コロナ対応画面1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2-1コロナ対応画面1.Designer.cs">
+      <DependentUpon>2-1コロナ対応画面1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2-2交通費確認画面1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2-2交通費確認画面1.Designer.cs">
+      <DependentUpon>2-2交通費確認画面1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2-3交通費確認画面2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2-3交通費確認画面2.Designer.cs">
+      <DependentUpon>2-3交通費確認画面2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2-4コロナ対応画面2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2-4コロナ対応画面2.Designer.cs">
+      <DependentUpon>2-4コロナ対応画面2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2-5コロナ対応画面3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2-5コロナ対応画面3.Designer.cs">
+      <DependentUpon>2-5コロナ対応画面3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3-1受付画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3-1受付画面.Designer.cs">
+      <DependentUpon>3-1受付画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3-2参加者確認画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3-2参加者確認画面.Designer.cs">
+      <DependentUpon>3-2参加者確認画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3-3教員確認画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3-3教員確認画面.Designer.cs">
+      <DependentUpon>3-3教員確認画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="4メニュー画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4メニュー画面.Designer.cs">
+      <DependentUpon>4メニュー画面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="5-1検索画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5-1検索画面.Designer.cs">
+      <DependentUpon>5-1検索画面.cs</DependentUpon>
+    </Compile>
     <Compile Include="5-2参加人数集計表.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -109,11 +169,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="8-1教員評価画面.resx">
-      <DependentUpon>8-1教員評価画面.cs</DependentUpon>
+    <EmbeddedResource Include="2-1コロナ対応画面1.resx">
+      <DependentUpon>2-1コロナ対応画面1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="8-2評価確認画面.resx">
-      <DependentUpon>8-2評価確認画面.cs</DependentUpon>
+    <EmbeddedResource Include="4メニュー画面.resx">
+      <DependentUpon>4メニュー画面.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
