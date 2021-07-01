@@ -100,18 +100,6 @@
     <Compile Include="9詳細閲覧画面.Designer.cs">
       <DependentUpon>9詳細閲覧画面.cs</DependentUpon>
     </Compile>
-    <Compile Include="コロナ対応画面1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="コロナ対応画面1.Designer.cs">
-      <DependentUpon>コロナ対応画面1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="コロナ対応画面２.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="コロナ対応画面２.Designer.cs">
-      <DependentUpon>コロナ対応画面２.cs</DependentUpon>
-    </Compile>
     <Compile Include="１トップ画面.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -130,9 +118,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="コロナ対応画面1.resx">
-      <DependentUpon>コロナ対応画面1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="１トップ画面.resx">
       <DependentUpon>１トップ画面.cs</DependentUpon>
     </EmbeddedResource>
