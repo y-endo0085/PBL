@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace OIC_PBL
 {
-    public partial class コロナ対応画面1 : Form
+    public partial class _2_3交通費確認画面2 : Form
     {
-        public コロナ対応画面1()
+        public _2_3交通費確認画面2()
         {
             InitializeComponent();
-        }
-
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
