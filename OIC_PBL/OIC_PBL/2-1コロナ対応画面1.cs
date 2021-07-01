@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OIC_PBL
 {
-    public partial class コロナ対応画面1 : Form
+    public partial class _2_1コロナ対応画面1 : Form
     {
-        public コロナ対応画面1()
+        public _2_1コロナ対応画面1()
         {
             InitializeComponent();
         }

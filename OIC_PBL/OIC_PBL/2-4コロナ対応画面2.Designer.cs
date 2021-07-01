@@ -1,6 +1,6 @@
 ﻿namespace OIC_PBL
 {
-    partial class _2_5コロナ対応画面3
+    partial class _2_4コロナ対応画面2
     {
         /// <summary>
         /// Required designer variable.
@@ -31,7 +31,7 @@
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "_2_5コロナ対応画面3";
+            this.Text = "_2_4コロナ対応画面2";
         }
 
         #endregion
