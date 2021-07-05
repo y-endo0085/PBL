@@ -1,8 +1,12 @@
 C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.csprojAssemblyReference.cache
 C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL._2_1コロナ対応画面1.resources
-C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL._4メニュー画面.resources
 C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.Properties.Resources.resources
 C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.Form1.resources
 C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.csproj.GenerateResource.cache
 C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.csproj.CoreCompileInputs.cache
 C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.メニュー画面.resources
+C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\bin\Debug\OIC_PBL.exe.config
+C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\bin\Debug\OIC_PBL.exe
+C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\bin\Debug\OIC_PBL.pdb
+C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.exe
+C:\Users\FMV\Desktop\test\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.pdb

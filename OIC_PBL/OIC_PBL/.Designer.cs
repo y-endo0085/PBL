@@ -101,14 +101,14 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
-<<<<<<< HEAD
+
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
-=======
+
         private System.Windows.Forms.Panel panel1;
->>>>>>> 2d4de7ce5023083cfbaeff36d8bf93936ff811da
+
     }
 }
 
