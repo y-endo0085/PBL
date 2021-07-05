@@ -1,0 +1,6 @@
+C:\Users\81902\Documents\pbl\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.csprojAssemblyReference.cache
+C:\Users\81902\Documents\pbl\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL._2_1コロナ対応画面1.resources
+C:\Users\81902\Documents\pbl\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.Properties.Resources.resources
+C:\Users\81902\Documents\pbl\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.Form1.resources
+C:\Users\81902\Documents\pbl\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.csproj.GenerateResource.cache
+C:\Users\81902\Documents\pbl\OIC_PBL\OIC_PBL\obj\Debug\OIC_PBL.csproj.CoreCompileInputs.cache
