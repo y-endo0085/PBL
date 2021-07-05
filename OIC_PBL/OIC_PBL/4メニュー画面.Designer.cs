@@ -77,6 +77,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "メニュー画面";
             this.Text = "メニュー画面";
+            this.Load += new System.EventHandler(this.メニュー画面_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
