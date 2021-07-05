@@ -17,6 +17,20 @@ namespace OIC_PBL
             InitializeComponent();
         }
 
-        
+        private void メニュー画面_Load(object sender, EventArgs e)
+        {
+            //描画先とするImageオブジェクトを作成する
+            Bitmap canvas = new Bitmap(pictureBox1.Width, pictureBox1.Height);
+            //ImageオブジェクトのGraphicsオブジェクトを作成する
+            Graphics g = Graphics.FromImage(canvas);
+
+            //(10,20)の位置に100x80サイズの黒で塗りつぶされた長方形を描画する
+            g.FillRectangle(Brushes.Black, 100, 20, 100, 80);
+
+            //Graphicsオブジェクトのリソースを解放する
+            g.Dispose();
+            //PictureBox1に表示する
+            pictureBox1.Image = canvas;
+        }
     }
 }
