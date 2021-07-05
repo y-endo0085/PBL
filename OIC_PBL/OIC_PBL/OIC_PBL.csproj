@@ -172,6 +172,9 @@
     <EmbeddedResource Include="2-1コロナ対応画面1.resx">
       <DependentUpon>2-1コロナ対応画面1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="4メニュー画面.resx">
+      <DependentUpon>4メニュー画面.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
