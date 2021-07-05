@@ -47,7 +47,7 @@ namespace OIC_PBL
         private void button2_Click(object sender, EventArgs e)
         {
             this.Visible = false;
-            _4メニュー画面 f2 = new _4メニュー画面();
+            メニュー画面 f2 = new メニュー画面();
             f2.Show();
         }
     }

@@ -169,6 +169,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include=".Designer.resx">
+      <DependentUpon>.Designer.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="2-1コロナ対応画面1.resx">
       <DependentUpon>2-1コロナ対応画面1.cs</DependentUpon>
     </EmbeddedResource>
